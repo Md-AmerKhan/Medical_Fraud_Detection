@@ -1,2 +1,7 @@
 pip install flask
 pip install xgboost
+flask
+xgboost
+gunicorn
+numpy
+scikit-learn
